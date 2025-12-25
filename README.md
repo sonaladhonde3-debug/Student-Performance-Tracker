@@ -29,4 +29,5 @@ python main.py
 - Use the "Import CSV" button in the GUI to bulk add student records. CSV must contain: `name`, `roll_number`, `math_score`, `logic_score`, `coding_score`, `communication_score`. `final_exam_score` is optional.
 - To reset data, either delete `student_performance.db` or use the "Clear Database" button.
 
-If you want, I can install the requirements and launch the GUI now.
+
+
